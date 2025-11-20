@@ -88,7 +88,7 @@ http://localhost:8080/realms/demo
 src/
  └── main/
      ├── java/
-     │   └── com/igorgustavo/demo/
+     │   └── com/exemplo/demo/
      │       ├── config/
      │       │   └── SecurityConfig.java
      │       ├── controller/
